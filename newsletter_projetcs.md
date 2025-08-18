@@ -97,6 +97,8 @@ Feel free to reach out anytime if you have any questions, and share this portfol
 | [**Urban Transportation Cost Estimator**](https://github.com/benitomartin/mlops-chicago-rides) | Urban transportation ML system | Scikit-learn, TensorFlow, MLFlow, Prefect, FastAPI, Docker | GCP | |
 | [**ResNet-Based Food Recognition System**](https://github.com/benitomartin/foodscore-code) | ResNet-based classification | Scikit-learn, TensorFlow, OpenCV, FastAPI, Docker | GCP | Streamlit |
 | [**Interactive YouTube Q&A and Summarization**](https://github.com/benitomartin/youtube-llm) | Video content analysis | Hugging Face Transformers, Whisper, Langchain, ChromaDB | | Streamlit |
+| [**Hotel Reviews ETL Pipeline on GCP**](https://github.com/benitomartin/de-hotel-reviews) | End-to-end data pipeline | Prefect, Spark, SQL, BigQuery, dbt, Terraform, Looker | GCP |
+| [**Swiss Air Quality Data Engineering Pipeline**](https://github.com/benitomartin/de-ch-weather) | Environmental data processing | Mage, dbt, SQL, BigQuery, Docker, Terraform, Looker | GCP |
 
 ---
 
