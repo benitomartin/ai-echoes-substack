@@ -9,7 +9,7 @@
 
 This repository contains information related to the AI Echoes Newsletter. 
 
-To explore the list of projects, please go to the following [page](https://github.com/benitomartin/ai-echoes-substack/edit/main/newsletter_projetcs.md).
+To explore the list of projects, please go to the following [page](https://github.com/benitomartin/ai-echoes-substack/blob/main/newsletter_projetcs.md).
 
 Feel free to reach out anytime if you have any questions, and share this portfolio with anyone who might be interested, including on your social channels!
 
