@@ -102,6 +102,14 @@ Feel free to reach out anytime if you have any questions or any problems by repr
 
 ---
 
+### Publishing Platforms before Launching AI Echoes (21.10.2025)
+
+All my tutorials have been published on the following platforms. Feel free to explore them as well, as I also wrote some articles without code or with simple code implementations.
+
+[Medium](https://medium.com/@benitomartin) • [Zilliz](https://zilliz.com/authors/Benito_Martin) • [Artifex](https://artifex.com/blog/building-a-multimodal-llm-application-with-pymupdf4llm) • [DEV](https://dev.to/benitomartin) • [DataCamp](https://www.datacamp.com/tutorial/how-to-expose-a-docker-port) • [CircleCI](https://circleci.com/blog/author/benito-martin/) • [Decoding ML](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) • [AWS](https://builder.aws.com/community/@benitomartin)
+
+---
+
 
 &nbsp;
 <div align="center">  
