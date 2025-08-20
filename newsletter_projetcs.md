@@ -7,11 +7,11 @@
 
 </div>
 
-This file contains a curated list of projects and tutorials that you can implement to effectively apply AI and ML and engineer smarter systems. Some projects might not contain a tutorial but feel free to explore it. If it is a Jupyter notebook, it is easy to follow. 
+This file contains an (ongoing) curated list of projects and tutorials that you can implement to apply AI and ML and engineer smarter systems effectively. Some projects might not have a tutorial, but you can explore them. If it's just a Jupyter notebook, it will be easy to follow, and most of them contain detailed descriptions.
 
 Think of it as a **curated treasure map** of ideas for your own experimentation. 
 
-Feel free to reach out anytime if you have any questions, and share this portfolio with anyone who might be interested, including on your social channels!
+Feel free to reach out anytime if you have any questions or any problems by reproducing the projects. And share this portfolio with anyone who might be interested, including on your social channels!
 
 ---
 
@@ -64,13 +64,13 @@ Feel free to reach out anytime if you have any questions, and share this portfol
 | [**Event-Driven ETL with AWS Step Functions**](https://github.com/benitomartin/aws-step-functions-circleci) | Serverless data pipeline orchestration | AWS Lambda, AWS Step Functions, CircleCI | AWS |  | [Link](https://builder.aws.com/content/305mFtMLnQFhbKVoZaGRmMz8B92/deployment-of-aws-step-functions-with-lambda-and-circleci) |
 | [**Serverless API with AWS SAM**](https://github.com/benitomartin/sam-lambda-aws-api) | Infrastructure-as-Code API | AWS SAM, AWS Lambda, AWS API Gateway, Docker | AWS |  | [Link](https://medium.com/@benitomartin/build-and-deploy-a-serverless-api-with-aws-sam-lambda-gateway-and-docker-35bbb4167439) |
 | [**Gradio Application with Descope Authentication**](https://github.com/benitomartin/gradio-sso-auth-descope) | Authentication integration | Flask, Descope | | Gradio | [Link](https://medium.com/@benitomartin/create-a-gradio-app-with-authentication-methods-magic-link-sso-and-social-login-19096dfdb297) |
+| [**Playlist Generator with K-Means & PCA**](https://github.com/benitomartin/mlops-music-clustering) | K-Means playlist generator | Scikit-learn, FastAPI, Amazon ECR, Docker | AWS | Streamlit | |
 
 ### Notebooks 
 
 | Project | Description | Tech Stack | Cloud | App | Article |
 |---------|-------------|------------|-------|-----|---------|
 | [**Bank Churn Classification**](https://github.com/benitomartin/bank_churn_classification) | Customer retention modeling | Scikit-learn, LightGBM, XGBoost, CatBoost | | | |
-| [**Playlist Generator with K-Means & PCA**](https://github.com/benitomartin/mlops-music-clustering) | K-Means playlist generator | Scikit-learn, FastAPI, Amazon ECR, Docker | AWS | Streamlit | |
 | [**Fake News Detection with NLP Architectures**](https://github.com/benitomartin/nlp-news-classification) | NLP classification system | Scikit-learn (Multinomial Naive Bayes), Tensorflow (CNN, RNN, feedforward) | | Streamlit | |
 | [**Birds Species Identification System**](https://github.com/benitomartin/birds_classification) | Computer vision system | PyTorch | | Gradio |
 
