@@ -31,6 +31,8 @@ Feel free to reach out anytime if you have any questions or any problems by repr
 
 | Project | Description | Tech Stack | Cloud | App |  Article |
 |---------|-------------|------------|-------|-----|----------|
+| [**Substack Articles Search Engine**](https://github.com/benitomartin/substack-newsletters-search-pipeline) | Substack semantic search system | Qdrant, Supabase, Prefect, FastAPI, Docker, Google Cloud Run, Gradio | GCP | |
+| [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | | [Link](https://decodingml.substack.com/p/the-github-issue-ai-butler-on-kubernetes) |
 | [**Kubernetes-Powered GitHub Issues Multiagents Intelligence**](https://github.com/benitomartin/github-issues-multiagent-intelligence) | GitHub Issues Multiagents Intelligence | OpenAI, LangGraph, Qdrant, Guardrails AI, AWS EKS, AWS, CDK, AWS RDS, Docker, FastAPI | AWS | | [Link](https://decodingml.substack.com/p/the-github-issue-ai-butler-on-kubernetes) |
 | [**LLM Evaluation and Observability System for Football Content**](https://github.com/benitomartin/llm-observability-opik) | Football content evaluation platform | OpenAI, Hugging Face, MongoDB, Comet ML, Opik, ZenML | | | [Link](https://decodingml.substack.com/p/your-ai-football-assist-eval-guide) |
 | [**Serverless Vector Database Embedding Pipeline**](https://github.com/benitomartin/embeddings-aws-circleci) | Embedding processing system | OpenAI, LangChain, Zilliz, AWS Lambda, Amazon ECR, Docker, CircleCI | AWS | | [Link](https://github.com/benitomartin/embeddings-aws-circleci) |
