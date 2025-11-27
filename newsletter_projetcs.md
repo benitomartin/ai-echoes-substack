@@ -31,6 +31,7 @@ Feel free to reach out anytime if you have any questions or any problems by repr
 
 | Project | Description | Tech Stack | Cloud | App  |  Article |
 |---------|-------------|------------|-------|------|----------|
+| [**LangGraph Audio Agents**](https://github.com/benitomartin/langgraph-audio-agents) | Real-time agent-to-agent conversational validation | LangGraph, OpenAI, Google Text-to-Speech, Elevenlabs, FastAPI |  | Gradio |[Link](https://aiechoes.substack.com/p/building-conversational-audio-agents)  |
 | [**Biomedical GraphRAG System**](https://github.com/benitomartin/biomedical-graphrag) | Hybrid RAG combining Knowledge Graphs and Vector Databases |  LangChain, OpenAI, Neo4j, Qdrant, FastAPI, Pydantic |  |  | [Link](https://aiechoes.substack.com/p/building-a-biomedical-graphrag-when)  |
 | [**Food Images Fine Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |  | [Link](https://paulabartabajo.substack.com/p/smarter-food-classification-with)  |
 | [**Gmail Telegram MCP Server**](https://github.com/benitomartin/gmail-telegram-mcp-server) | Email Telegram voice assistant | FastMCP, OpenAI, Gmail API, Google Text-to-Speech, Telegram, OAuth 2.0, Pydantic | GCP | Telegram | [Link](https://aiechoes.substack.com/p/talk-to-your-inbox-mcp-gmail-bot-819) |
