@@ -31,6 +31,7 @@ Feel free to reach out anytime if you have any questions or any problems by repr
 
 | Project | Description | Tech Stack | Cloud | App  |  Article |
 |---------|-------------|------------|-------|------|----------|
+| [**AgentCore Agents**](https://github.com/benitomartin/agentcore-agents) | AWS Bedrock AgentCore and Strands Agents | Bedrock, AgentCore, Strands |  | |[Link](https://aiechoes.substack.com/p/exploring-aws-bedrock-agentcore-and)  |
 | [**LangGraph Audio Agents**](https://github.com/benitomartin/langgraph-audio-agents) | Real-time agent-to-agent conversational validation | LangGraph, OpenAI, Google Text-to-Speech, Elevenlabs, FastAPI |  | Gradio |[Link](https://aiechoes.substack.com/p/building-conversational-audio-agents)  |
 | [**Biomedical GraphRAG System**](https://github.com/benitomartin/biomedical-graphrag) | Hybrid RAG combining Knowledge Graphs and Vector Databases |  LangChain, OpenAI, Neo4j, Qdrant, FastAPI, Pydantic |  |  | [Link](https://aiechoes.substack.com/p/building-a-biomedical-graphrag-when)  |
 | [**Food Images Fine Tuning**](https://github.com/benitomartin/food-images-finetuning) | Liquid AI 450M and 1.6B VL Models |  PyTorch, LoRA, Hugging Face, Transformers, Modal | Modal |  | [Link](https://paulabartabajo.substack.com/p/smarter-food-classification-with)  |
